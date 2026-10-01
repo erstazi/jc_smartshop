@@ -66,46 +66,53 @@ function api.build_owner_formspec(shop)
 	local owner = shop:get_owner()
 
 	local fs_parts = {
-		"size[8,11]",
+		"size[13,10]",
 
 		f("label[0,0.2;%s]", FS("for sale:")),
-		f("list[nodemeta:%s;give1;1,0;1,1;]", fpos),
-		f("list[nodemeta:%s;give2;2,0;1,1;]", fpos),
-		f("list[nodemeta:%s;give3;3,0;1,1;]", fpos),
-		f("list[nodemeta:%s;give4;4,0;1,1;]", fpos),
+		f("list[nodemeta:%s;give1;2,0;1,1;]", fpos),
+		f("list[nodemeta:%s;give2;3,0;1,1;]", fpos),
+		f("list[nodemeta:%s;give3;4,0;1,1;]", fpos),
+		f("list[nodemeta:%s;give4;5,0;1,1;]", fpos),
 		f("label[0,1.2;%s]", FS("price:")),
-		f("list[nodemeta:%s;pay1;1,1;1,1;]", fpos),
-		f("list[nodemeta:%s;pay2;2,1;1,1;]", fpos),
-		f("list[nodemeta:%s;pay3;3,1;1,1;]", fpos),
-		f("list[nodemeta:%s;pay4;4,1;1,1;]", fpos),
+		f("list[nodemeta:%s;pay1;2,1;1,1;]", fpos),
+		f("list[nodemeta:%s;pay2;3,1;1,1;]", fpos),
+		f("list[nodemeta:%s;pay3;4,1;1,1;]", fpos),
+		f("list[nodemeta:%s;pay4;5,1;1,1;]", fpos),
 
-		f("button[6,0;2,1;customer;%s]", FS("customer view")),
+		-- f("button[10.5,0;4.0,1;customer;%s]", FS("customer view")),
+		f("button[8.3,3.0;4.5,1;customer;%s]", FS("customer view")),
 		f("tooltip[customer;%s]", FS("view the shop as a customer")),
 
-		f("checkbox[6,0.9;strict_meta;%s;%s]", FS("strict meta?"), tostring(is_strict_meta)),
+		-- f("checkbox[10.5,1.3;strict_meta;%s;%s]", FS("strict meta?"), tostring(is_strict_meta)),
+		f("checkbox[8.3,4.0;strict_meta;%s;%s]", FS("strict meta?"), tostring(is_strict_meta)),
 		f(
 			"tooltip[strict_meta;%s]",
 			FS("check this if you are buying or selling items with unique properties " .. "like written books or petz.")
 		),
-		f("checkbox[6,1.2;private;%s;%s]", FS("private?"), tostring(is_private)),
+		-- f("checkbox[10.5,1.9;private;%s;%s]", FS("private?"), tostring(is_private)),
+		f("checkbox[8.3,5.0;private;%s;%s]", FS("private?"), tostring(is_private)),
 		f(
 			"tooltip[private;%s]",
 			FS("uncheck this if you want to share control of the shop with anyone in the " .. "protected area.")
 		),
-		f("checkbox[6,1.5;freebies;%s;%s]", FS("freebies?"), tostring(allow_freebies)),
+		-- f("checkbox[10.5,2.5;freebies;%s;%s]", FS("freebies?"), tostring(allow_freebies)),
+		f("checkbox[8.3,6.0;freebies;%s;%s]", FS("freebies?"), tostring(allow_freebies)),
 		f(
 			"tooltip[freebies;%s]",
 			FS("check this if you want to be able to give/receive items without " .. "an exchange")
 		),
 
-		"list[current_player;main;0,7.2;8,4;]",
+		-- "list[current_player;main;3.5,8.0;8,4;]",
+		-- "list[current_player;main;0,8.0;8,4;]",
+		"list[current_player;main;0,6.3;8,4;]",
 		f("listring[nodemeta:%s;main]", fpos),
 		"listring[current_player;main]",
 	}
 
 	if player_is_admin(owner) then
 		table.insert_all(fs_parts, {
-			f("checkbox[6,0.6;is_unlimited;%s;%s]", FS("unlimited?"), tostring(is_unlimited)),
+			-- f("checkbox[10.5,0.7;is_unlimited;%s;%s]", FS("unlimited?"), tostring(is_unlimited)),
+			f("checkbox[8.3,7.0;is_unlimited;%s;%s]", FS("unlimited?"), tostring(is_unlimited)),
 			f(
 				"tooltip[is_unlimited;%s]",
 				FS("check this allow exchanges ex nihilo. " .. "shop contents will be ignored")
@@ -115,18 +122,23 @@ function api.build_owner_formspec(shop)
 
 	if history_max ~= 0 then
 		table.insert_all(fs_parts, {
-			f("button[5,2;2.5,1;history;%s]", FS("purchase history")),
+			-- f("button[6.0,2.0;4.0,1;history;%s]", FS("purchase history")),
+			f("button[8.3,2;4.5,1;history;%s]", FS("purchase history")),
 			f("tooltip[history;%s]", FS("view a log of purchases from the shop")),
 		})
 	end
 
 	if is_unlimited then
-		table.insert(fs_parts, f("label[0.5,2.5;%s]", FS("Stock is unlimited")))
+		-- table.insert(fs_parts, f("label[6.0,0.2;%s]", FS("Stock is unlimited")))
+		table.insert(fs_parts, f("label[8.3,0.2;%s]", FS("Stock is unlimited")))
 	else
 		table.insert_all(fs_parts, {
-			f("list[nodemeta:%s;main;0,3;8,4;]", fpos),
-			f("button[5,0;1,1;trefill;%s]", FS("refill")),
-			f("button[5,1;1,1;tsend;%s]", FS("send")),
+			-- f("list[nodemeta:%s;main;3.5,3.6;8,4;]", fpos),
+			f("list[nodemeta:%s;main;0,2.1;8,4;]", fpos),
+			-- f("button[6,0;4.0,1;trefill;%s]", FS("refill")),
+			f("button[8.3,0;4.5,1;trefill;%s]", FS("refill")),
+			-- f("button[6,1;4.0,1;tsend;%s]", FS("send")),
+			f("button[8.3,1;4.5,1;tsend;%s]", FS("send")),
 		})
 
 		if send then
