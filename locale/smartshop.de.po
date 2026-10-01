@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "zum Verkauf:"
+
+msgid "price:"
+msgstr "Preis:"
+
+msgid "customer view"
+msgstr "Kundenansicht"
+
+msgid "view the shop as a customer"
+msgstr "Shop als Kunde anzeigen"
+
+msgid "strict meta?"
+msgstr "strikte Metadaten?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "Aktiviere dies, wenn du Gegenstände mit eindeutigen Eigenschaften wie geschriebenen Büchern oder Petz kaufst oder verkaufst."
+
+msgid "private?"
+msgstr "privat?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "Deaktiviere dies, wenn du die Kontrolle über den Shop mit anderen Spielern im geschützten Bereich teilen möchtest."
+
+msgid "freebies?"
+msgstr "gratis?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "Aktiviere dies, wenn du Gegenstände ohne Tausch geben oder erhalten möchtest."
+
+msgid "unlimited?"
+msgstr "unbegrenzt?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "Aktiviere dies, um Tauschvorgänge ex nihilo zu erlauben. Der Shop-Inhalt wird ignoriert."
+
+msgid "purchase history"
+msgstr "Kaufverlauf"
+
+msgid "view a log of purchases from the shop"
+msgstr "Kaufverlauf des Shops anzeigen"
+
+msgid "Stock is unlimited"
+msgstr "Lagerbestand ist unbegrenzt"
+
+msgid "refill"
+msgstr "auffüllen"
+
+msgid "send"
+msgstr "senden"
+
+msgid "payments sent to @1"
+msgstr "Zahlungen werden an @1 gesendet"
+
+msgid "click to set send storage"
+msgstr "Klicke, um das Sendelager festzulegen"
+
+msgid "automatically refilled from @1"
+msgstr "automatisch von @1 aufgefüllt"
+
+msgid "click to set refill storage"
+msgstr "Klicke, um das Auffülllager festzulegen"
+
+msgid "used with connected smartshops"
+msgstr "wird mit verbundenen Smartshops verwendet"
+
+msgid "save"
+msgstr "speichern"
+
+msgid "Private?"
+msgstr "Privat?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "Deaktiviere dies, wenn du die Kontrolle über das Lager mit anderen Spielern im geschützten Bereich teilen möchtest."
+
+msgid "close history"
+msgstr "Verlauf schließen"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 kaufte @3 für @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Externes Smartshop-Lager"
+
+msgid "Shop by: @1"
+msgstr "Shop von: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop von @1)"
+
+msgid "This shop is over-full."
+msgstr "Dieser Shop ist überfüllt."
+
+msgid "This shop is sold out."
+msgstr "Dieser Shop ist ausverkauft."
+
+msgid "This shop is not configured."
+msgstr "Dieser Shop ist nicht konfiguriert."
+
+msgid "External storage by: @1"
+msgstr "Externes Lager von: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "Der Versuch, das Lager zu verbinden, ist abgelaufen. Bitte versuche es erneut."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Schlage auf ein Smartshop-Lager, um das @1-Lager zu verbinden"
+
+msgid "You do not own this storage!"
+msgstr "Du bist nicht der Besitzer dieses Lagers!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "Das Lager ist zu weit vom Shop entfernt, um es zu verbinden!"
+
+msgid "@1 storage linked!"
+msgstr "@1-Lager verbunden!"
+
+msgid "normal exchange"
+msgstr "normaler Tausch"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Tausch nicht möglich: Du hast keine passende Zahlung."
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Tausch nicht möglich: Der Shop ist ausverkauft."
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Tausch nicht möglich: Dein Inventar hat keinen Platz."
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Tausch nicht möglich: Der Shop ist voll."
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Tausch nicht möglich: Unbekannter Fehler."

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: pl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "na sprzedaż:"
+
+msgid "price:"
+msgstr "cena:"
+
+msgid "customer view"
+msgstr "widok klienta"
+
+msgid "view the shop as a customer"
+msgstr "wyświetl sklep jako klient"
+
+msgid "strict meta?"
+msgstr "ścisłe metadane?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "zaznacz, jeśli kupujesz lub sprzedajesz przedmioty o unikalnych właściwościach, takie jak zapisane książki lub zwierzęta."
+
+msgid "private?"
+msgstr "prywatny?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "odznacz, jeśli chcesz udostępnić kontrolę nad sklepem wszystkim osobom na chronionym obszarze."
+
+msgid "freebies?"
+msgstr "darmowe?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "zaznacz, jeśli chcesz móc przekazywać lub otrzymywać przedmioty bez wymiany"
+
+msgid "unlimited?"
+msgstr "bez ograniczeń?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "zaznacz, aby zezwolić na wymiany ex nihilo. zawartość sklepu będzie ignorowana"
+
+msgid "purchase history"
+msgstr "historia zakupów"
+
+msgid "view a log of purchases from the shop"
+msgstr "wyświetl historię zakupów w sklepie"
+
+msgid "Stock is unlimited"
+msgstr "Zapas jest nieograniczony"
+
+msgid "refill"
+msgstr "uzupełnij"
+
+msgid "send"
+msgstr "wyślij"
+
+msgid "payments sent to @1"
+msgstr "płatności wysyłane do @1"
+
+msgid "click to set send storage"
+msgstr "kliknij, aby ustawić magazyn wysyłania"
+
+msgid "automatically refilled from @1"
+msgstr "automatycznie uzupełniane z @1"
+
+msgid "click to set refill storage"
+msgstr "kliknij, aby ustawić magazyn uzupełniania"
+
+msgid "used with connected smartshops"
+msgstr "używane z połączonymi smartshopami"
+
+msgid "save"
+msgstr "zapisz"
+
+msgid "Private?"
+msgstr "Prywatny?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "odznacz, jeśli chcesz udostępnić kontrolę nad magazynem wszystkim osobom na chronionym obszarze."
+
+msgid "close history"
+msgstr "zamknij historię"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 kupił(a) @3 za @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Zewnętrzny magazyn Smartshop"
+
+msgid "Shop by: @1"
+msgstr "Sklep: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop: @1)"
+
+msgid "This shop is over-full."
+msgstr "Ten sklep jest przepełniony."
+
+msgid "This shop is sold out."
+msgstr "Ten sklep jest wyprzedany."
+
+msgid "This shop is not configured."
+msgstr "Ten sklep nie jest skonfigurowany."
+
+msgid "External storage by: @1"
+msgstr "Zewnętrzny magazyn: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "Próba połączenia z magazynem przekroczyła limit czasu. Spróbuj ponownie."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Uderz w węzeł magazynu Smartshop, aby połączyć magazyn @1"
+
+msgid "You do not own this storage!"
+msgstr "Nie jesteś właścicielem tego magazynu!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "Magazyn jest zbyt daleko od sklepu, aby go połączyć!"
+
+msgid "@1 storage linked!"
+msgstr "Magazyn @1 został połączony!"
+
+msgid "normal exchange"
+msgstr "normalna wymiana"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Nie można dokonać wymiany: nie masz odpowiedniej zapłaty"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Nie można dokonać wymiany: sklep jest wyprzedany"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Nie można dokonać wymiany: brak miejsca w ekwipunku"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Nie można dokonać wymiany: sklep jest pełny"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Nie można dokonać wymiany: nieznany błąd"

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "for sale:"
+
+msgid "price:"
+msgstr "price:"
+
+msgid "customer view"
+msgstr "customer view"
+
+msgid "view the shop as a customer"
+msgstr "view the shop as a customer"
+
+msgid "strict meta?"
+msgstr "strict meta?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "check this if you are buying or selling items with unique properties like written books or petz."
+
+msgid "private?"
+msgstr "private?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "uncheck this if you want to share control of the shop with anyone in the protected area."
+
+msgid "freebies?"
+msgstr "freebies?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "check this if you want to be able to give/receive items without an exchange"
+
+msgid "unlimited?"
+msgstr "unlimited?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "check this allow exchanges ex nihilo. shop contents will be ignored"
+
+msgid "purchase history"
+msgstr "purchase history"
+
+msgid "view a log of purchases from the shop"
+msgstr "view a log of purchases from the shop"
+
+msgid "Stock is unlimited"
+msgstr "Stock is unlimited"
+
+msgid "refill"
+msgstr "refill"
+
+msgid "send"
+msgstr "send"
+
+msgid "payments sent to @1"
+msgstr "payments sent to @1"
+
+msgid "click to set send storage"
+msgstr "click to set send storage"
+
+msgid "automatically refilled from @1"
+msgstr "automatically refilled from @1"
+
+msgid "click to set refill storage"
+msgstr "click to set refill storage"
+
+msgid "used with connected smartshops"
+msgstr "used with connected smartshops"
+
+msgid "save"
+msgstr "save"
+
+msgid "Private?"
+msgstr "Private?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "uncheck this if you want to share control of the storage with anyone in the protected area."
+
+msgid "close history"
+msgstr "close history"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 bought @3 for @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Smartshop external storage"
+
+msgid "Shop by: @1"
+msgstr "Shop by: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop by @1)"
+
+msgid "This shop is over-full."
+msgstr "This shop is over-full."
+
+msgid "This shop is sold out."
+msgstr "This shop is sold out."
+
+msgid "This shop is not configured."
+msgstr "This shop is not configured."
+
+msgid "External storage by: @1"
+msgstr "External storage by: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "Storage link attempt timed out, please try again."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Punch a smartshop storage node to link @1 storage"
+
+msgid "You do not own this storage!"
+msgstr "You do not own this storage!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "Storage is too far from shop to link!"
+
+msgid "@1 storage linked!"
+msgstr "@1 storage linked!"
+
+msgid "normal exchange"
+msgstr "normal exchange"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Cannot exchange: You lack appropriate payment"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Cannot exchange: Shop is sold out"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Cannot exchange: No room in your inventory"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Cannot exchange: Shop is full"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Cannot exchange: Failed for unknown reason"

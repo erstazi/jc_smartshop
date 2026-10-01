@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: zh_CN\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "出售："
+
+msgid "price:"
+msgstr "价格："
+
+msgid "customer view"
+msgstr "顾客视图"
+
+msgid "view the shop as a customer"
+msgstr "以顾客身份查看商店"
+
+msgid "strict meta?"
+msgstr "严格元数据？"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "如果你买卖具有独特属性的物品（例如写过的书或宠物），请勾选此项。"
+
+msgid "private?"
+msgstr "私人？"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "如果你希望与受保护区域内的其他玩家共享商店控制权，请取消勾选。"
+
+msgid "freebies?"
+msgstr "免费？"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "如果你希望能够在不进行交换的情况下赠送或接收物品，请勾选此项"
+
+msgid "unlimited?"
+msgstr "无限？"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "勾选此项以允许凭空进行交换。商店库存将被忽略"
+
+msgid "purchase history"
+msgstr "购买记录"
+
+msgid "view a log of purchases from the shop"
+msgstr "查看商店购买记录"
+
+msgid "Stock is unlimited"
+msgstr "库存无限"
+
+msgid "refill"
+msgstr "补充"
+
+msgid "send"
+msgstr "发送"
+
+msgid "payments sent to @1"
+msgstr "付款发送至 @1"
+
+msgid "click to set send storage"
+msgstr "点击设置付款存储"
+
+msgid "automatically refilled from @1"
+msgstr "自动从 @1 补充"
+
+msgid "click to set refill storage"
+msgstr "点击设置补充存储"
+
+msgid "used with connected smartshops"
+msgstr "与已连接的 Smartshop 一起使用"
+
+msgid "save"
+msgstr "保存"
+
+msgid "Private?"
+msgstr "私人？"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "如果你希望与受保护区域内的其他玩家共享存储控制权，请取消勾选。"
+
+msgid "close history"
+msgstr "关闭记录"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 以 @4 购买了 @3"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Smartshop 外部存储"
+
+msgid "Shop by: @1"
+msgstr "商店所有者：@1"
+
+msgid "(Smartshop by @1)"
+msgstr "（Smartshop 所有者：@1）"
+
+msgid "This shop is over-full."
+msgstr "此商店已满。"
+
+msgid "This shop is sold out."
+msgstr "此商店已售罄。"
+
+msgid "This shop is not configured."
+msgstr "此商店尚未配置。"
+
+msgid "External storage by: @1"
+msgstr "外部存储所有者：@1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "连接存储的操作超时，请重试。"
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "击打一个 Smartshop 存储节点以连接 @1 存储"
+
+msgid "You do not own this storage!"
+msgstr "你不是此存储的所有者！"
+
+msgid "Storage is too far from shop to link!"
+msgstr "存储距离商店太远，无法连接！"
+
+msgid "@1 storage linked!"
+msgstr "@1 存储已连接！"
+
+msgid "normal exchange"
+msgstr "普通交换"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "无法交换：你没有合适的付款物品"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "无法交换：商店已售罄"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "无法交换：你的物品栏没有空间"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "无法交换：商店已满"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "无法交换：因未知原因失败"

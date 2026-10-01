@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: pt\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "para venda:"
+
+msgid "price:"
+msgstr "preço:"
+
+msgid "customer view"
+msgstr "vista do cliente"
+
+msgid "view the shop as a customer"
+msgstr "ver a loja como cliente"
+
+msgid "strict meta?"
+msgstr "metadados estritos?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "marque isto se estiver a comprar ou vender itens com propriedades únicas, como livros escritos ou animais de estimação."
+
+msgid "private?"
+msgstr "privado?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "desmarque isto se quiser partilhar o controlo da loja com qualquer pessoa na área protegida."
+
+msgid "freebies?"
+msgstr "grátis?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "marque isto se quiser poder dar ou receber itens sem uma troca"
+
+msgid "unlimited?"
+msgstr "ilimitado?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "marque isto para permitir trocas ex nihilo. o conteúdo da loja será ignorado"
+
+msgid "purchase history"
+msgstr "histórico de compras"
+
+msgid "view a log of purchases from the shop"
+msgstr "ver um registo das compras da loja"
+
+msgid "Stock is unlimited"
+msgstr "O stock é ilimitado"
+
+msgid "refill"
+msgstr "reabastecer"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "payments sent to @1"
+msgstr "pagamentos enviados para @1"
+
+msgid "click to set send storage"
+msgstr "clique para definir o armazenamento de envio"
+
+msgid "automatically refilled from @1"
+msgstr "reabastecido automaticamente a partir de @1"
+
+msgid "click to set refill storage"
+msgstr "clique para definir o armazenamento de reabastecimento"
+
+msgid "used with connected smartshops"
+msgstr "usado com smartshops ligadas"
+
+msgid "save"
+msgstr "guardar"
+
+msgid "Private?"
+msgstr "Privado?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "desmarque isto se quiser partilhar o controlo do armazenamento com qualquer pessoa na área protegida."
+
+msgid "close history"
+msgstr "fechar histórico"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 comprou @3 por @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Armazenamento externo do Smartshop"
+
+msgid "Shop by: @1"
+msgstr "Loja de: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop de @1)"
+
+msgid "This shop is over-full."
+msgstr "Esta loja está cheia demais."
+
+msgid "This shop is sold out."
+msgstr "Esta loja está esgotada."
+
+msgid "This shop is not configured."
+msgstr "Esta loja não está configurada."
+
+msgid "External storage by: @1"
+msgstr "Armazenamento externo de: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "A tentativa de ligar o armazenamento expirou. Tente novamente."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Bata num nó de armazenamento do Smartshop para ligar o armazenamento @1"
+
+msgid "You do not own this storage!"
+msgstr "Não é o proprietário deste armazenamento!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "O armazenamento está demasiado longe da loja para ser ligado!"
+
+msgid "@1 storage linked!"
+msgstr "Armazenamento @1 ligado!"
+
+msgid "normal exchange"
+msgstr "troca normal"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Não é possível trocar: não possui o pagamento adequado"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Não é possível trocar: a loja está esgotada"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Não é possível trocar: não há espaço no seu inventário"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Não é possível trocar: a loja está cheia"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Não é possível trocar: falha por motivo desconhecido"

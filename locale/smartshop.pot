@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: api/formspec.lua
+msgid "for sale:"
+msgstr ""
+
+#: api/formspec.lua
+msgid "price:"
+msgstr ""
+
+#: api/formspec.lua
+msgid "customer view"
+msgstr ""
+
+#: api/formspec.lua
+msgid "view the shop as a customer"
+msgstr ""
+
+#: api/formspec.lua
+msgid "strict meta?"
+msgstr ""
+
+#: api/formspec.lua
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr ""
+
+#: api/formspec.lua
+msgid "private?"
+msgstr ""
+
+#: api/formspec.lua
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr ""
+
+#: api/formspec.lua
+msgid "freebies?"
+msgstr ""
+
+#: api/formspec.lua
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr ""
+
+#: api/formspec.lua
+msgid "unlimited?"
+msgstr ""
+
+#: api/formspec.lua
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr ""
+
+#: api/formspec.lua
+msgid "purchase history"
+msgstr ""
+
+#: api/formspec.lua
+msgid "view a log of purchases from the shop"
+msgstr ""
+
+#: api/formspec.lua
+msgid "Stock is unlimited"
+msgstr ""
+
+#: api/formspec.lua
+msgid "refill"
+msgstr ""
+
+#: api/formspec.lua
+msgid "send"
+msgstr ""
+
+#: api/formspec.lua
+msgid "payments sent to @1"
+msgstr ""
+
+#: api/formspec.lua
+msgid "click to set send storage"
+msgstr ""
+
+#: api/formspec.lua
+msgid "automatically refilled from @1"
+msgstr ""
+
+#: api/formspec.lua
+msgid "click to set refill storage"
+msgstr ""
+
+#: api/formspec.lua
+msgid "used with connected smartshops"
+msgstr ""
+
+#: api/formspec.lua
+msgid "save"
+msgstr ""
+
+#: api/formspec.lua
+msgid "Private?"
+msgstr ""
+
+#: api/formspec.lua
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr ""
+
+#: api/formspec.lua
+msgid "close history"
+msgstr ""
+
+#: api/formspec.lua
+msgid "@1 @2 bought @3 for @4"
+msgstr ""
+
+#: nodes/shop.lua
+msgid "Smartshop"
+msgstr ""
+
+#: nodes/storage.lua
+msgid "Smartshop external storage"
+msgstr ""
+
+#: api/shop_class.lua
+msgid "Shop by: @1"
+msgstr ""
+
+#: api/shop_class.lua
+msgid "(Smartshop by @1)"
+msgstr ""
+
+#: api/shop_class.lua
+msgid "This shop is over-full."
+msgstr ""
+
+#: api/shop_class.lua
+msgid "This shop is sold out."
+msgstr ""
+
+#: api/shop_class.lua
+msgid "This shop is not configured."
+msgstr ""
+
+#: api/storage_class.lua
+msgid "External storage by: @1"
+msgstr ""
+
+#: api/storage_linking.lua
+msgid "Storage link attempt timed out, please try again."
+msgstr ""
+
+#: api/storage_linking.lua
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr ""
+
+#: api/storage_linking.lua
+msgid "You do not own this storage!"
+msgstr ""
+
+#: api/storage_linking.lua
+msgid "Storage is too far from shop to link!"
+msgstr ""
+
+#: api/storage_linking.lua
+msgid "@1 storage linked!"
+msgstr ""
+
+#: api/purchase_mechanics.lua
+msgid "normal exchange"
+msgstr ""
+
+#: api/purchase_mechanics.lua
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr ""
+
+#: api/purchase_mechanics.lua
+msgid "Cannot exchange: Shop is sold out"
+msgstr ""
+
+#: api/purchase_mechanics.lua
+msgid "Cannot exchange: No room in your inventory"
+msgstr ""
+
+#: api/purchase_mechanics.lua
+msgid "Cannot exchange: Shop is full"
+msgstr ""
+
+#: api/purchase_mechanics.lua
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr ""

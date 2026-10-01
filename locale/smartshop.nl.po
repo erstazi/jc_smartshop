@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "te koop:"
+
+msgid "price:"
+msgstr "prijs:"
+
+msgid "customer view"
+msgstr "klantweergave"
+
+msgid "view the shop as a customer"
+msgstr "bekijk de winkel als klant"
+
+msgid "strict meta?"
+msgstr "strikte metadata?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "vink dit aan als je voorwerpen met unieke eigenschappen koopt of verkoopt, zoals geschreven boeken of huisdieren."
+
+msgid "private?"
+msgstr "privé?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "schakel dit uit als je de controle over de winkel wilt delen met iedereen in het beschermde gebied."
+
+msgid "freebies?"
+msgstr "gratis?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "vink dit aan als je voorwerpen wilt kunnen geven of ontvangen zonder ruil"
+
+msgid "unlimited?"
+msgstr "onbeperkt?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "vink dit aan om uitwisselingen ex nihilo toe te staan. de inhoud van de winkel wordt genegeerd"
+
+msgid "purchase history"
+msgstr "aankoopgeschiedenis"
+
+msgid "view a log of purchases from the shop"
+msgstr "bekijk een overzicht van aankopen uit de winkel"
+
+msgid "Stock is unlimited"
+msgstr "Voorraad is onbeperkt"
+
+msgid "refill"
+msgstr "bijvullen"
+
+msgid "send"
+msgstr "verzenden"
+
+msgid "payments sent to @1"
+msgstr "betalingen verzonden naar @1"
+
+msgid "click to set send storage"
+msgstr "klik om de opslag voor verzending in te stellen"
+
+msgid "automatically refilled from @1"
+msgstr "automatisch bijgevuld vanuit @1"
+
+msgid "click to set refill storage"
+msgstr "klik om de opslag voor bijvullen in te stellen"
+
+msgid "used with connected smartshops"
+msgstr "wordt gebruikt met verbonden smartshops"
+
+msgid "save"
+msgstr "opslaan"
+
+msgid "Private?"
+msgstr "Privé?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "schakel dit uit als je de controle over de opslag wilt delen met iedereen in het beschermde gebied."
+
+msgid "close history"
+msgstr "geschiedenis sluiten"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 kocht @3 voor @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Externe Smartshop-opslag"
+
+msgid "Shop by: @1"
+msgstr "Winkel van: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop van @1)"
+
+msgid "This shop is over-full."
+msgstr "Deze winkel is te vol."
+
+msgid "This shop is sold out."
+msgstr "Deze winkel is uitverkocht."
+
+msgid "This shop is not configured."
+msgstr "Deze winkel is niet geconfigureerd."
+
+msgid "External storage by: @1"
+msgstr "Externe opslag van: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "De poging om de opslag te verbinden is verlopen. Probeer het opnieuw."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Sla op een Smartshop-opslagknooppunt om de @1-opslag te koppelen"
+
+msgid "You do not own this storage!"
+msgstr "Je bent niet de eigenaar van deze opslag!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "De opslag is te ver van de winkel verwijderd om te koppelen!"
+
+msgid "@1 storage linked!"
+msgstr "@1-opslag gekoppeld!"
+
+msgid "normal exchange"
+msgstr "normale ruil"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Ruilen niet mogelijk: je hebt niet de juiste betaling"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Ruilen niet mogelijk: de winkel is uitverkocht"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Ruilen niet mogelijk: er is geen ruimte in je inventaris"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Ruilen niet mogelijk: de winkel is vol"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Ruilen niet mogelijk: onbekende fout"

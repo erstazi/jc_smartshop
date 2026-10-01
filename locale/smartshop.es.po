@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "en venta:"
+
+msgid "price:"
+msgstr "precio:"
+
+msgid "customer view"
+msgstr "vista del cliente"
+
+msgid "view the shop as a customer"
+msgstr "ver la tienda como cliente"
+
+msgid "strict meta?"
+msgstr "¿metadatos estrictos?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "marca esto si compras o vendes objetos con propiedades unicas, como libros escritos o mascotas."
+
+msgid "private?"
+msgstr "¿privado?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "desmarca esto si quieres compartir el control de la tienda con cualquiera en el area protegida."
+
+msgid "freebies?"
+msgstr "¿gratis?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "marca esto si quieres poder dar o recibir objetos sin intercambio"
+
+msgid "unlimited?"
+msgstr "¿ilimitado?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "marca esto para permitir intercambios ex nihilo. se ignorara el contenido de la tienda"
+
+msgid "purchase history"
+msgstr "historial de compras"
+
+msgid "view a log of purchases from the shop"
+msgstr "ver un registro de las compras de la tienda"
+
+msgid "Stock is unlimited"
+msgstr "El inventario es ilimitado"
+
+msgid "refill"
+msgstr "rellenar"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "payments sent to @1"
+msgstr "pagos enviados a @1"
+
+msgid "click to set send storage"
+msgstr "haz clic para establecer el almacenamiento de envio"
+
+msgid "automatically refilled from @1"
+msgstr "rellenado automaticamente desde @1"
+
+msgid "click to set refill storage"
+msgstr "haz clic para establecer el almacenamiento de rellenado"
+
+msgid "used with connected smartshops"
+msgstr "se usa con smartshops conectadas"
+
+msgid "save"
+msgstr "guardar"
+
+msgid "Private?"
+msgstr "¿Privado?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "desmarca esto si quieres compartir el control del almacenamiento con cualquiera en el area protegida."
+
+msgid "close history"
+msgstr "cerrar historial"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 compro @3 por @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Almacenamiento externo de Smartshop"
+
+msgid "Shop by: @1"
+msgstr "Tienda de: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop de @1)"
+
+msgid "This shop is over-full."
+msgstr "Esta tienda esta demasiado llena."
+
+msgid "This shop is sold out."
+msgstr "Esta tienda esta agotada."
+
+msgid "This shop is not configured."
+msgstr "Esta tienda no esta configurada."
+
+msgid "External storage by: @1"
+msgstr "Almacenamiento externo de: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "El intento de conectar el almacenamiento agoto el tiempo de espera. Intentalo de nuevo."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Golpea un nodo de almacenamiento de Smartshop para conectar el almacenamiento @1"
+
+msgid "You do not own this storage!"
+msgstr "¡No eres el propietario de este almacenamiento!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "¡El almacenamiento esta demasiado lejos de la tienda para conectarlo!"
+
+msgid "@1 storage linked!"
+msgstr "¡Almacenamiento @1 conectado!"
+
+msgid "normal exchange"
+msgstr "intercambio normal"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "No se puede intercambiar: no tienes el pago adecuado"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "No se puede intercambiar: la tienda esta agotada"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "No se puede intercambiar: no hay espacio en tu inventario"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "No se puede intercambiar: la tienda esta llena"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "No se puede intercambiar: fallo por una razon desconocida"

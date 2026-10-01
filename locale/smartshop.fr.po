@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: fr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "à vendre :"
+
+msgid "price:"
+msgstr "prix :"
+
+msgid "customer view"
+msgstr "vue client"
+
+msgid "view the shop as a customer"
+msgstr "voir la boutique en tant que client"
+
+msgid "strict meta?"
+msgstr "métadonnées strictes ?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "cochez ceci si vous achetez ou vendez des objets avec des propriétés uniques, comme des livres écrits ou des animaux de compagnie."
+
+msgid "private?"
+msgstr "privé ?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "décochez ceci si vous souhaitez partager le contrôle de la boutique avec les joueurs de la zone protégée."
+
+msgid "freebies?"
+msgstr "gratuits ?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "cochez ceci si vous souhaitez pouvoir donner ou recevoir des objets sans échange"
+
+msgid "unlimited?"
+msgstr "illimité ?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "cochez ceci pour autoriser les échanges ex nihilo. le contenu de la boutique sera ignoré"
+
+msgid "purchase history"
+msgstr "historique des achats"
+
+msgid "view a log of purchases from the shop"
+msgstr "voir l'historique des achats de la boutique"
+
+msgid "Stock is unlimited"
+msgstr "Le stock est illimité"
+
+msgid "refill"
+msgstr "réapprovisionner"
+
+msgid "send"
+msgstr "envoyer"
+
+msgid "payments sent to @1"
+msgstr "paiements envoyés à @1"
+
+msgid "click to set send storage"
+msgstr "cliquez pour définir le stockage d'envoi"
+
+msgid "automatically refilled from @1"
+msgstr "réapprovisionné automatiquement depuis @1"
+
+msgid "click to set refill storage"
+msgstr "cliquez pour définir le stockage de réapprovisionnement"
+
+msgid "used with connected smartshops"
+msgstr "utilisé avec les smartshops connectés"
+
+msgid "save"
+msgstr "enregistrer"
+
+msgid "Private?"
+msgstr "Privé ?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "décochez ceci si vous souhaitez partager le contrôle du stockage avec les joueurs de la zone protégée."
+
+msgid "close history"
+msgstr "fermer l'historique"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 a acheté @3 pour @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Stockage externe Smartshop"
+
+msgid "Shop by: @1"
+msgstr "Boutique de : @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop de @1)"
+
+msgid "This shop is over-full."
+msgstr "Cette boutique est trop pleine."
+
+msgid "This shop is sold out."
+msgstr "Cette boutique est épuisée."
+
+msgid "This shop is not configured."
+msgstr "Cette boutique n'est pas configurée."
+
+msgid "External storage by: @1"
+msgstr "Stockage externe de : @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "La tentative de connexion au stockage a expiré, veuillez réessayer."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Frappez un nœud de stockage Smartshop pour connecter le stockage @1"
+
+msgid "You do not own this storage!"
+msgstr "Vous n'êtes pas propriétaire de ce stockage !"
+
+msgid "Storage is too far from shop to link!"
+msgstr "Le stockage est trop éloigné de la boutique pour être connecté !"
+
+msgid "@1 storage linked!"
+msgstr "Stockage @1 connecté !"
+
+msgid "normal exchange"
+msgstr "échange normal"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Échange impossible : vous n'avez pas le paiement approprié"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Échange impossible : la boutique est épuisée"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Échange impossible : votre inventaire n'a pas assez de place"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Échange impossible : la boutique est pleine"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Échange impossible : échec pour une raison inconnue"

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartshop\n"
+"Language: uk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "for sale:"
+msgstr "на продаж:"
+
+msgid "price:"
+msgstr "ціна:"
+
+msgid "customer view"
+msgstr "вигляд для покупця"
+
+msgid "view the shop as a customer"
+msgstr "переглянути магазин як покупець"
+
+msgid "strict meta?"
+msgstr "суворі метадані?"
+
+msgid "check this if you are buying or selling items with unique properties like written books or petz."
+msgstr "Позначте, якщо ви купуєте або продаєте предмети з унікальними властивостями, наприклад написані книги або домашніх тварин."
+
+msgid "private?"
+msgstr "приватний?"
+
+msgid "uncheck this if you want to share control of the shop with anyone in the protected area."
+msgstr "Зніміть позначку, якщо хочете дозволити іншим гравцям у захищеній зоні керувати магазином."
+
+msgid "freebies?"
+msgstr "безкоштовно?"
+
+msgid "check this if you want to be able to give/receive items without an exchange"
+msgstr "Позначте, якщо хочете мати можливість передавати або отримувати предмети без обміну"
+
+msgid "unlimited?"
+msgstr "необмежений?"
+
+msgid "check this allow exchanges ex nihilo. shop contents will be ignored"
+msgstr "Позначте, щоб дозволити обміни ex nihilo. вміст магазину буде проігноровано"
+
+msgid "purchase history"
+msgstr "історія покупок"
+
+msgid "view a log of purchases from the shop"
+msgstr "переглянути журнал покупок у магазині"
+
+msgid "Stock is unlimited"
+msgstr "Запас необмежений"
+
+msgid "refill"
+msgstr "поповнити"
+
+msgid "send"
+msgstr "надіслати"
+
+msgid "payments sent to @1"
+msgstr "платежі надсилаються до @1"
+
+msgid "click to set send storage"
+msgstr "натисніть, щоб встановити сховище для надсилання"
+
+msgid "automatically refilled from @1"
+msgstr "автоматично поповнюється з @1"
+
+msgid "click to set refill storage"
+msgstr "натисніть, щоб встановити сховище для поповнення"
+
+msgid "used with connected smartshops"
+msgstr "використовується з підключеними смарт-магазинами"
+
+msgid "save"
+msgstr "зберегти"
+
+msgid "Private?"
+msgstr "Приватний?"
+
+msgid "uncheck this if you want to share control of the storage with anyone in the protected area."
+msgstr "Зніміть позначку, якщо хочете дозволити іншим гравцям у захищеній зоні керувати сховищем."
+
+msgid "close history"
+msgstr "закрити історію"
+
+msgid "@1 @2 bought @3 for @4"
+msgstr "@1 @2 купив(ла) @3 за @4"
+
+msgid "Smartshop"
+msgstr "Smartshop"
+
+msgid "Smartshop external storage"
+msgstr "Зовнішнє сховище Smartshop"
+
+msgid "Shop by: @1"
+msgstr "Магазин належить: @1"
+
+msgid "(Smartshop by @1)"
+msgstr "(Smartshop належить: @1)"
+
+msgid "This shop is over-full."
+msgstr "Цей магазин переповнений."
+
+msgid "This shop is sold out."
+msgstr "У цьому магазині все розпродано."
+
+msgid "This shop is not configured."
+msgstr "Цей магазин не налаштований."
+
+msgid "External storage by: @1"
+msgstr "Зовнішнє сховище належить: @1"
+
+msgid "Storage link attempt timed out, please try again."
+msgstr "Час очікування підключення сховища минув. Спробуйте ще раз."
+
+msgid "Punch a smartshop storage node to link @1 storage"
+msgstr "Вдарте по вузлу сховища Smartshop, щоб підключити сховище @1"
+
+msgid "You do not own this storage!"
+msgstr "Ви не є власником цього сховища!"
+
+msgid "Storage is too far from shop to link!"
+msgstr "Сховище надто далеко від магазину для підключення!"
+
+msgid "@1 storage linked!"
+msgstr "Сховище @1 підключено!"
+
+msgid "normal exchange"
+msgstr "звичайний обмін"
+
+msgid "Cannot exchange: You lack appropriate payment"
+msgstr "Неможливо обміняти: у вас немає відповідної оплати"
+
+msgid "Cannot exchange: Shop is sold out"
+msgstr "Неможливо обміняти: магазин розпроданий"
+
+msgid "Cannot exchange: No room in your inventory"
+msgstr "Неможливо обміняти: у вашому інвентарі немає місця"
+
+msgid "Cannot exchange: Shop is full"
+msgstr "Неможливо обміняти: магазин заповнений"
+
+msgid "Cannot exchange: Failed for unknown reason"
+msgstr "Неможливо обміняти: невідома помилка"
